@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Artivest is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by 500-global) and added to the network as a stub for full-pipeline profiling.
-- https://artivest.co
+Artivest is an investment platform that connects accredited investors with alternative investment opportunities, offering a curated marketplace for private equity, real estate, and venture capital deals. The company provides tools for portfolio management, due diligence, and compliance, aiming to democratize access to high‑net‑worth investments while maintaining regulatory standards and investor protection.
+
+**Areas:** Company · Investment · Platform · PrivateEquity · RealEstate · VentureCapital
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://artivest.co)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/artivest-co/](https://apis.io/providers/artivest-co/).
